@@ -4,13 +4,12 @@
 
 </div>
 
-<div id="header" align="start">
+
 🔭 I’m currently working on mobile development. 
-  "&nbsp";
 🌱 I’m currently learning mobile development with flutter and I want to improve myself in many areas.
 📫 How to reach me: ...
 
-</div>
+
 
 
 
