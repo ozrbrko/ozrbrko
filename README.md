@@ -2,10 +2,17 @@
 <div id="header" align="center">
   <img src="" width="100"/>
 
-- 🔭 I’m currently working on mobile development.
-- 🌱 I’m currently learning mobile development with flutter and I want to improve myself in many areas.
-- 📫 How to reach me: ...
 </div>
+
+<div id="header" align="start">
+🔭 I’m currently working on mobile development.
+🌱 I’m currently learning mobile development with flutter and I want to improve myself in many areas.
+📫 How to reach me: ...
+
+</div>
+
+
+
 
 <!--
 **ozrbrko/ozrbrko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
