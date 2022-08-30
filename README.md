@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-![8da45163336fc62161cd3ae7b302d925](https://user-images.githubusercontent.com/46723964/187421719-812dec6e-4bc0-45bd-b3ac-d20ec6818d07.gif)
+(https://user-images.githubusercontent.com/46723964/187421719-812dec6e-4bc0-45bd-b3ac-d20ec6818d07.gif)
 
 </div>
 
