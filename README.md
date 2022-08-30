@@ -1,13 +1,16 @@
 ### Hi there 👋
 <div id="header" align="center">
-(https://user-images.githubusercontent.com/46723964/187421719-812dec6e-4bc0-45bd-b3ac-d20ec6818d07.gif)
+
 
 </div>
 
 
 🔭 I’m currently working on mobile development. 
 🌱 I’m currently learning mobile development with flutter and I want to improve myself in many areas.
-📫 How to reach me: ...
+📫 How to reach me: 
+
+linkedin: https://www.linkedin.com/in/burak-%C3%B6zer-a00679205/
+mail: oozerburak@gmail.com
 
 
 
