@@ -42,3 +42,10 @@
   <img src="https://user-images.githubusercontent.com/46723964/231760446-5e71368c-7138-46c1-8dc7-6101581fdd88.png" height="45px" />
   <span>&nbsp;&nbsp;</span>   
 </p>
+
+
+<p align="left">  
+<p><img src="https://github-readme-stats.vercel.app/api?username=ozrbrko&show_icons=true&theme=chartreuse-dark" alt="ozrbrko"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozrbrko&show_icons=true&theme=chartreuse-dark" alt="ozrbrko"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ozrbrko&show_icons=true&theme=chartreuse-dark" alt="ozrbrko"/>  
+</p>
