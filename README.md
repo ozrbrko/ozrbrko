@@ -33,9 +33,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
-  <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height="45px" />
-  <span>&nbsp;&nbsp;</span>
-     
      
   <img src="https://user-images.githubusercontent.com/46723964/231760446-5e71368c-7138-46c1-8dc7-6101581fdd88.png" height="45px" />
   <span>&nbsp;&nbsp;</span>   
