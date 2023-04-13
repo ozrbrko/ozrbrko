@@ -32,7 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span>     
      
-      <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
   <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height="45px" />
