@@ -22,10 +22,11 @@
   <img src="https://user-images.githubusercontent.com/46723964/231758595-b45088fc-f80e-4a46-aa22-063bc63f9033.png" height="45px"/>
   <span>&nbsp;&nbsp;</span>
      
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="45px"/>
-  <span>&nbsp;&nbsp;</span>
      
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/640px-JetBrains_Rider_Icon.svg.png" height="45px" />
+  <img src= "https://user-images.githubusercontent.com/46723964/231759076-651af0e1-60b6-4a9a-be52-193cb0af77f4.png" height="45px"/>
+  <span>&nbsp;&nbsp;</span>
+
+  <img src="https://user-images.githubusercontent.com/46723964/231759557-62cbaf4e-0d6b-4e10-9fa5-3e57800ad827.png" height="45px" />
   <span>&nbsp;&nbsp;</span>  
      
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" height="45px" />
