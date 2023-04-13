@@ -3,6 +3,10 @@
 
 • My name is Burak. I am Mobile Developer. I like to follow different technologies. I’m currently working on mobile development. I’m currently learning mobile development with flutter and I want to improve myself in many areas.
 
+
+🔭 I’m currently working on mobile development.
+🌱 I’m currently learning mobile development with flutter and I want to improve myself in many areas.
+
 ## Contact
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozrbrko" height="30" width="40" /> --> [Burak Özer](https://tr.linkedin.com/in/burak-%C3%B6zer-a00679205)
 
