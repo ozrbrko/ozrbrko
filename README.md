@@ -18,9 +18,9 @@
 
 <p align="left">
      
-  <img src="https://user-images.githubusercontent.com/46723964/231752675-404bfa47-de8a-4d76-8ac1-26ea3d83d1d3.png" alt="Swift logo" title="Swift" width="45" height="45"/> <span>&nbsp;&nbsp;</span>
-
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="45px"/>
+  <span>&nbsp;&nbsp;</span>
+     
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="45px"/>
   <span>&nbsp;&nbsp;</span>
      
