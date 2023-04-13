@@ -18,7 +18,7 @@
 
 <p align="left">
      
-  <img src="path/to/swift-logo.png" height="45px"/>
+  ![Swift logo](path/to/swift-logo.png)
   <span>&nbsp;&nbsp;</span>
      
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="45px"/>
