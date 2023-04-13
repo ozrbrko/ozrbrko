@@ -17,8 +17,9 @@
      -->
 
 <p align="left">
-     
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="45px"/>
+    
+
+  <img src="https://user-images.githubusercontent.com/46723964/231758595-b45088fc-f80e-4a46-aa22-063bc63f9033.png" height="45px"/>
   <span>&nbsp;&nbsp;</span>
      
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="45px"/>
