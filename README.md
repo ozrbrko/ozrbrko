@@ -2,7 +2,7 @@
 
 <img align='right' src='https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966' width='375"'>
 
-• My name is Mert. I am Full Stack Software Developer. I like to follow different technologies. I am curious about software development. I am someone who has adopted the principle of self-renewal and continuous improvement.
+• My name is Burak. I am Mobile Developer. I like to follow different technologies. I’m currently working on mobile development. I’m currently learning mobile development with flutter and I want to improve myself in many areas.
 
 ## Contact
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertyusufkutlu" height="30" width="40" /> --> [Mert Yusuf Kutlu](https://www.linkedin.com/in/mert-yusuf-kutlu-8b31ba142/)
