@@ -6,20 +6,15 @@
 
 ## Contact
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozrbrko" height="30" width="40" /> --> [Burak Özer](https://tr.linkedin.com/in/burak-%C3%B6zer-a00679205)
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertyusufkutlu" height="30" width="40" />[](url)  --> [mertyusufkutlu](https://twitter.com/mertyusufkutlu)
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertyusufkutlu" height="30" width="40" /> --> [mertyusufkutlu](https://www.instagram.com/mertyusufkutlu)
+
 
 ## Languages | Tools🎨
-<!-- 1-C++ 
-     2-JavaScript
-     3-AspNet MVC 
-     4- HTML5
-     5- CSS3
-     6- C
-     7- C#
-     8- Pyhton
-     9- .Net Core
-     10 MySQL -->
+<!-- 1-C
+     2-C++
+     3-Dart, Flutter 
+     4- Swift
+     5- SQL
+     -->
 
 <p align="left">
      
