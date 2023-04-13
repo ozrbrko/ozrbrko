@@ -32,6 +32,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span>     
      
+      <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
+  <span>&nbsp;&nbsp;</span>
+     
+  <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height="45px" />
+  <span>&nbsp;&nbsp;</span>
+     
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="45px" />
   <span>&nbsp;&nbsp;</span> 
      
@@ -58,11 +64,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="45px" />
   <span>&nbsp;&nbsp;</span>
      
-  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
-  <span>&nbsp;&nbsp;</span>
-     
-  <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height="45px" />
-  <span>&nbsp;&nbsp;</span>
+ 
      
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45px" />
   <span>&nbsp;&nbsp;</span>
