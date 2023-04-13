@@ -29,6 +29,14 @@
   <span>&nbsp;&nbsp;</span>  
   <img src="https://user-images.githubusercontent.com/46723964/231758595-b45088fc-f80e-4a46-aa22-063bc63f9033.png" height="45px"/>
   <span>&nbsp;&nbsp;</span>   
+  <img src="https://user-images.githubusercontent.com/46723964/231769444-a09f6c6d-940f-4fea-af76-ff5b4fbfd7ab.png" height="45px" />
+  <span>&nbsp;&nbsp;</span> 
+    <img src="https://user-images.githubusercontent.com/46723964/231769666-78248b71-ea35-425d-9eb8-b7d04a73aa1c.png" height="45px" />
+  <span>&nbsp;&nbsp;</span> 
+    <img src="https://user-images.githubusercontent.com/46723964/231769892-56c64797-cda0-491f-b39c-ccbef6fe9283.png" height="45px" />
+  <span>&nbsp;&nbsp;</span> 
+    <img src="https://user-images.githubusercontent.com/46723964/231770088-78f53e5c-2cae-4fa0-81df-c13fdd9e8675.png" height="45px" />
+  <span>&nbsp;&nbsp;</span> 
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="45px" />
   <span>&nbsp;&nbsp;</span>   
   <img src="https://user-images.githubusercontent.com/46723964/231760446-5e71368c-7138-46c1-8dc7-6101581fdd88.png" height="45px" />
