@@ -14,7 +14,7 @@
 
 👨🏻‍💻 Firebase, MVVM, Mobx, BLOC, Http, Dio, Clean Code.. I know more than what can be learned from a training series.
 
-⚡️ Fun fact: I love animals, coding, and traveling.
+⚡️ Fun fact: I love philosophy, coding, and traveling.
 
 ## Contact
 
