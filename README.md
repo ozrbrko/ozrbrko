@@ -4,7 +4,7 @@
 
 <img align='right' src='https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966' width='375"'>
 
-🔭 I’m currently learning Flutter Development.
+🔭 I am currently developing  mobile apps with Flutter.
 
 🕵️‍♂️ I’m currently learning everything 🔎
 
